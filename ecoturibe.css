@@ -1,0 +1,48 @@
+ *{
+         margin: 0;
+         padding: 0;
+         }
+         body{
+         background-color: #F2F2F2;
+         font-family: 'Nunito Sans', sans-serif;
+         }
+         iframe{overflow:hidden;}
+         h3{
+         text-align: center;
+         }
+         p{
+         text-align: justify;
+         }
+         a:link {
+         text-decoration: none;
+         color: #204954;
+         }
+         a:visited {
+         text-decoration: none;
+         color: #0000;
+         }
+         .aventura{
+         text-align: center;
+         margin: 50px;
+         color: #83E590;
+         font-family: 'Lobster', cursive;
+         font-size: 40pt;
+         }
+         .vive{
+         text-align: center;
+         margin: 50px;
+         color: #5882FA;
+         font-family: 'Lobster', cursive;
+         font-size: 40pt;
+         }
+         .happy{
+         width: 70px;
+         height: 66px;
+         }
+         .modelo{
+         width: 70%;
+         margin: 50px;
+         }
+         .color{
+         font-size: 15pt;
+         }
